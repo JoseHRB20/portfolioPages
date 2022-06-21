@@ -10,7 +10,7 @@ import { BackgroundComponent } from './components/background/background.componen
   declarations: [
     AppComponent,
     NavBarComponent,
-    BackgroundComponent
+    BackgroundComponent,
   ],
   imports: [
     BrowserModule,
