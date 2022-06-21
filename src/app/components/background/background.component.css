@@ -6,12 +6,12 @@
     position: relative;
     top: 200px;
     left: -55vw;
-    animation-name: teste;
+    animation-name: squareOne;
     animation-duration: 2s;
     animation-fill-mode: forwards;
 }
 
-@keyframes teste{
+@keyframes squareOne{
     from {left: -55vw;}
     to { left: 0px;}
 }
@@ -31,12 +31,12 @@
     top: 200px;
     padding-left: 7px;
     right: -55vw;
-    animation-name: teste2;
+    animation-name: SquareTwo;
     animation-duration: 2s;
     animation-fill-mode: forwards;
 }
 
-@keyframes teste2{
+@keyframes SquareTwo{
     from {right: -55vw;}
     to {right: 0px;}
 }
